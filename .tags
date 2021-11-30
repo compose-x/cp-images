@@ -1,0 +1,15 @@
+Tags: 7-al2
+Architectures: amd64, arm64v8
+Directory: kafka-connect/al2
+Repository: cp-kafka-connect
+
+Tags: 7-al2
+Architectures: amd64
+Directory: ksqldb/al2
+Repository: cp-ksqldb
+
+Tags: 7-al2
+Architectures: amd64
+Directory: schema-registry/al2
+Repository: cp-schema-registry
+
